@@ -1,0 +1,70 @@
+body{
+   /* background-color: #f1f2f5;*/
+    background-color: rgb(212, 218, 223);
+    color: #010101;
+    font-family: 'Trispace', sans-serif;
+}
+
+h1{
+    color:#141415;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+details{
+    color:#484847;
+    font-weight: 100;
+}
+summary{
+    color: #484847;
+}
+
+header{
+    margin-top:2%;
+    background-color: #00b4d8;
+    border:2px solid #00b4d8;
+    border-radius:5px;
+    padding:2%;
+}
+
+#skills{
+    margin-left:3%;
+    margin-right:3%;
+    border:2px solid #e9edc9;
+    border-radius:2px;
+    background-color: #e9edc9;
+    padding:2%;
+    margin-bottom:2%;
+    margin-top:2%;
+}
+
+#links{
+    margin-left:3%
+
+}
+
+#Projects{
+    border:2px solid #faedcd;
+    border-radius:2px;
+    margin-left:3%;
+    margin-right:3%;
+    font-weight:100;
+    background-color: #faedcd;
+    padding:2%;
+}
+
+footer{
+    background-color: #010101;
+    color:white;
+    border:2px solid #010101;
+    border-radius:4px;
+    padding:5%;
+    margin:3%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
