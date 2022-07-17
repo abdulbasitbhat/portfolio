@@ -6,7 +6,7 @@ img{
     border-radius: 2px;
 }
 
-#badge{
+#badge, #pc{
     display:block;
     margin-left:auto;
     margin-right: auto;
