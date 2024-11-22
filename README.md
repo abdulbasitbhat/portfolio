@@ -1,3 +1,2 @@
-# abdulbasit.github.io
+# https://abdulbasitbhat.github.io/portfolio/
 
-Site is currently under maintenance. Sorry for the inconvenience.
